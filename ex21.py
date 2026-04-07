@@ -23,4 +23,5 @@ sf=s-i      # não preciso fazer varios calculos dentro das condições
 print(f"Seu salário é {s} o valor do imposto é {i} e o valor com desconto é {sf}")
 print("teste git")
 
+
     
