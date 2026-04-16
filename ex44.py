@@ -1,7 +1,5 @@
 # tentativas +=1 = tentativas= tentativas +1
 
-
-
 senha_correta="python123"
 tentativas = 0
 max_tentativas = 3

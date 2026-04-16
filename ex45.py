@@ -1,3 +1,6 @@
+# whilw = enquanto 
+
+
 nota=0
 while nota >= 0 and nota <= 10:
     try:
